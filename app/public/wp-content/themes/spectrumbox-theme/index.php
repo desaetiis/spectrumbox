@@ -1,14 +1,10 @@
 <?php
 
-$names = array('Felix', 'Alex', 'Octavia', 'Ada', 'Noni', 'Deda');
-$count = 0;
-?>
+while(have_posts()) {
+	the_post(); ?>
+	<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+	<p><?php the_content(); ?></p>
+	<hr>
+<?php }
 
-<h1>
-	Names of peeps:
-</h1>
-<?php while($count < count($names)) { ?>
-<li>My name is <?php echo $names[$count]; ?>.</li>
-<?php $count++; ?>
-<?php } ?>
-<p>So here, bitches!</p>
+ ?>
