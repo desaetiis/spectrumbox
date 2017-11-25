@@ -4,11 +4,10 @@ Author: Felix Vadan
 Version: 1.0
  */
 
- $mainBlack: #ffffff;
-
 
 body {
-	color: $mainBlack;
+	color: #ffffff;
 	font-style: 1.6rem;
-	columns: 300px 2;
+	-webkit-columns: 300px 2;
+	        columns: 300px 2;
 }
