@@ -3,3 +3,7 @@ Theme Name: Spectrumbox
 Author: Felix Vadan
 Version: 1.0
  */
+
+body {
+	color: green;
+}
