@@ -8,4 +8,6 @@ INSERT INTO `wp_postmeta` VALUES
 (6,6,"_edit_last","1"),
 (7,6,"_edit_lock","1511557069:1"),
 (10,8,"_edit_last","1"),
-(11,8,"_edit_lock","1511557232:1");
+(11,8,"_edit_lock","1511580607:1"),
+(12,10,"_edit_last","1"),
+(13,10,"_edit_lock","1511580681:1");
