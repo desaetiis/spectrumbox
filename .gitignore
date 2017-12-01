@@ -10,6 +10,8 @@
 *~
 *.sass-cache
 node_modules/
+app/public/wp-config.php
+app/public/wp-config-sample.php
 .tmp/
 
 # OS or Editor folders
