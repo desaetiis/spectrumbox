@@ -46,7 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-
+define('AUTH_KEY',         '9 H*:~|:,XRl@eaOcx``C)Dq+b]FOe*`n;}jY0#(y #O$&v/^4/+boLM)HuF(:k-');
+define('SECURE_AUTH_KEY',  '3FO=ule>?D.X=(g@bGm@nsQmcs}O5nS+p7/x3PvvS.9u~QSmVA-Gc#TJnE%5%]H%');
+define('LOGGED_IN_KEY',    '@+&44&Ytu~~6%N0~(!r&rJT.+[k6<XxV3)3k{Ag}+-ohd*92BCoH2<6tUVN5f.s!');
+define('NONCE_KEY',        '6AFA-R[lBctd{c<j!ZXIWVu$4zfq^8HO]som@DK.q8 8seXy-$uxk[LGii)_uv|P');
+define('AUTH_SALT',        'h|z(a|1w,wRhd*4M@.Tv1Kj!%Od5X_)x5vQw|;d2[yii|7k,UFr pQ#Z0-B~;c+r');
+define('SECURE_AUTH_SALT', 'P%y#lqj]Y:eEp9^$b[nFxP3m])mbL0&5^@5Cdp7H=ZdC=#|6:OJr-l%QLTn/L2@p');
+define('LOGGED_IN_SALT',   'AqEcC @2`(?;lR-B-ct}{2=w@j1FE.gUM670=>&TVv>XOzTHYFk{Y%7@0Di<Haw-');
+define('NONCE_SALT',       'w<E[oKEU2i%cMn3L(f5HY98?F$S-^H:qK5uG]Z!K/_Hmz}Y:nrUc t}Dry]g<K^$');
 /**
  * WordPress Database Table prefix.
  *
@@ -55,8 +62,19 @@ define( 'DB_COLLATE', '' );
  */
 $table_prefix = 'wp_';
 
-
-
+/**
+ * For developers: WordPress debugging mode.
+ *
+ * Change this to true to enable the display of notices during development.
+ * It is strongly recommended that plugin and theme developers use WP_DEBUG
+ * in their development environments.
+ *
+ * For information on other constants that can be used for debugging,
+ * visit the Codex.
+ *
+ * @link https://codex.wordpress.org/Debugging_in_WordPress
+ */
+define('WP_DEBUG', true);
 
 /* That's all, stop editing! Happy blogging. */
 

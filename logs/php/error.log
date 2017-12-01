@@ -14,3 +14,8 @@
 [25-Nov-2017 03:39:09 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /app/public/wp-content/themes/spectrumbox-theme/index.php on line 3
 [25-Nov-2017 03:39:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/spectrumbox-theme/index.php on line 5
 [25-Nov-2017 03:39:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /app/public/wp-content/themes/spectrumbox-theme/index.php on line 5
+[01-Dec-2017 13:49:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'username_here'@'localhost' (using password: YES) in /app/public/wp-includes/wp-db.php on line 1538
+[01-Dec-2017 13:49:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'username_here'@'localhost' (using password: YES) in /app/public/wp-includes/wp-db.php on line 1538
+[01-Dec-2017 13:50:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'username_here'@'localhost' (using password: YES) in /app/public/wp-includes/wp-db.php on line 1538
+[01-Dec-2017 13:50:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'username_here'@'localhost' (using password: YES) in /app/public/wp-includes/wp-db.php on line 1538
+[01-Dec-2017 13:51:33 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'username_here'@'localhost' (using password: YES) in /app/public/wp-includes/wp-db.php on line 1538
