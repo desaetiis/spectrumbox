@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c06740-cea0-4b46-8e7f-df8fb28cb4b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/about.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/class-wp-upgrader.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/class-wp-upgrader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/file.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/meta-boxes.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/meta-boxes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/misc.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/misc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/plugin.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/includes/upgrade.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/includes/upgrade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/js/theme.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/theme.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/js/theme.min.js" afterPath="$PROJECT_DIR$/app/public/wp-admin/js/theme.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/theme-editor.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/theme-editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-admin/user-new.php" afterPath="$PROJECT_DIR$/app/public/wp-admin/user-new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-config-sample.php" afterPath="$PROJECT_DIR$/app/public/wp-config-sample.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-config.php" afterPath="$PROJECT_DIR$/app/public/wp-config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/class-wp-theme.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/class-wp-theme.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/feed.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/feed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/functions.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/general-template.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/general-template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/script-loader.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/script-loader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/version.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/version.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/public/wp-includes/wp-db.php" afterPath="$PROJECT_DIR$/app/public/wp-includes/wp-db.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sql/local.wp_options-schema.sql" afterPath="$PROJECT_DIR$/app/sql/local.wp_options-schema.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sql/local.wp_options.sql" afterPath="$PROJECT_DIR$/app/sql/local.wp_options.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sql/metadata" afterPath="$PROJECT_DIR$/app/sql/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/mysql/error.log" afterPath="$PROJECT_DIR$/logs/mysql/error.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/nginx/access.log" afterPath="$PROJECT_DIR$/logs/nginx/access.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/php/error.log" afterPath="$PROJECT_DIR$/logs/php/error.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/php/php-fpm.log" afterPath="$PROJECT_DIR$/logs/php/php-fpm.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/supervisor/supervisord.log" afterPath="$PROJECT_DIR$/logs/supervisor/supervisord.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,8 +18,8 @@
       <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/public/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="479">
+              <caret line="55" column="58" lean-forward="false" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -55,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/app/public/wp-config-sample.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="478">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="79" selection-end-column="25" />
+              <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -89,7 +63,7 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="108" />
     <option name="y" value="54" />
     <option name="width" value="1625" />
@@ -163,19 +137,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512135837830</updated>
-      <workItem from="1512135853033" duration="629000" />
+      <workItem from="1512135853033" duration="872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629000" />
+    <option name="totallyTimeSpent" value="872000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="54" width="1625" height="1126" extended-state="1" />
-    <editor active="true" />
+    <frame x="108" y="54" width="1625" height="1126" extended-state="0" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -218,15 +191,15 @@
     <entry file="file://$PROJECT_DIR$/app/public/wp-config-sample.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="79" selection-end-column="25" />
+          <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/public/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="479">
+          <caret line="55" column="58" lean-forward="false" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
           <folding />
         </state>
       </provider>
